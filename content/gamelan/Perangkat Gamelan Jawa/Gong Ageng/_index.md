@@ -1,0 +1,5 @@
+# Gong Ageng
+
+![](Gong.png)
+
+Pada setiap satu set gamelan terdapat 1 atau 2 Gong Ageng.
