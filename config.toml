@@ -1,8 +1,9 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://example.com/'
+baseURL = 'https://worldofgamelans.xyz/'
 title = "World of Gamelans"
 theme = 'book'
+defaultContentLanguage = 'id'
 
 # Book configuration
 disablePathToLower = true
@@ -19,14 +20,13 @@ enableGitInfo = true
 [markup.highlight]
     noClasses = true
     style = 'monokailight'
-
 # Multi-lingual mode config
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 [languages]
-[languages.en]
-  languageName = 'English'
+[languages.id]
+  languageName = 'Indonesian'
   contentDir = 'content'
   weight = 1
 
@@ -65,7 +65,7 @@ enableGitInfo = true
   # Requires 'BookRepo' param.
   # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
   # Github uses 'commit', Bitbucket uses 'commits'
-  # BookCommitPath = 'commit'
+  BookCommitPath = 'commit'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
