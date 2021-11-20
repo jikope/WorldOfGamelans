@@ -3,18 +3,24 @@
 #+DATE: <2021-11-11 Sat>
 #+showthedate: show
 
-
 Gamelan Jawa merupakan salah satu alat musik tradisional indonesia yang berkembang di Jawa Tengah dan Yogyakarta. Pada website ini saya menulis tentang gamelan lebih banyak merujuk referensi dari gaya gamelan dari wilayah Yogyakarta.
 
 #+CAPTION: Gamelan Kyai Surak dan Kyai Kancilbelik Kraton Yogyakarta pada kegiatan Uyon-Uyon Hadiluhung
+#+attr_html: :width 800px
 [[./Gamelan Kraton Yogyakarta.png]]
 
 Gamelan pada saat ini masih menjadi alat musik relevan untuk masyarakat jawa. Orkestra ini sering digunakan untuk mengiringi berbagai macam kesenian seperti tari, wayang kulit, wayang wong maupun konser gamelan yang sering disebut karawitan.
 
 * Tuning / Laras
-Jika anda sering mendengarkan gamelan maka nada yang dipakai itu beda dengan nada diatonis. Gamelan menggunakan tangga nada sendiri yaitu Slendro dan Pelog. Setiap instrumen pada gamelan sudah di-tuning nadanya, jadi instrumen pada satu set gamelan kurang cocok bila dimainkan pada set gamelan lainnya.
- 
+Jika anda sering mendengarkan gamelan maka nada yang dipakai itu beda dengan nada diatonis. Setiap instrumen pada gamelan sudah di-tuning nadanya, jadi instrumen pada satu set gamelan kurang cocok bila dimainkan pada set gamelan lainnya. Laras yang digunakan di gamelan yaitu *Slendro* dan *Pelog*. *Slendro* memiliki 5 buah tangga nada dan *Pelog* memiliki 7 buah tangga nada.
+
+Berikut adalah komparasi nada-nada pada pelog dan slendro.
+|-----------+---+---+---+---+---+---+---|
+| *Pelog*   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| *Slendro* | 1 | 2 | 3 | 5 | 6 |   |   |
+|-----------+---+---+---+---+---+---+---|
+
 * Instrumen
-Instrumen pada gamelan lengkap terdiri dari sekitar 24 perangkat. 
+Instrumen pada gamelan lengkap terdiri dari sekitar 24 perangkat. Instrumen-instrumen gamelan ini bisa dikelompokkan berdasarkan fungsinya pada orkestra. Balungan, melodi, struktural, pengatur tempo
 
 * Struktur Lagu/Gendhing

@@ -1,0 +1,12 @@
+#+TITLE: Siter & Celempung
+#+TYPE: docs
+#+showthedate: false
+
+Pada sebuah gamelan biasanya terdapat 1 celempung untuk pelog dan 1 celempung slendro. Untuk siter hanya terdapat 1 karena biasanya sudah menggunakan siter bolak-balik(pelog & slendro pada tiap sisi) pada 1 siter.
+- 1 Celempung Slendro
+- 1 Celempung Pelog
+- 1 Siter Slendro & Pelog (Bolak-balik)    
+
+#+CAPTION: Celempung & Siter pada Kyai Harjanegara & Harjamulya
+#+attr_html: :width 800px
+[[./siter.png]]

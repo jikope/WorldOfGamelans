@@ -1,5 +1,5 @@
 ---
 #bookFlatSection: true
 bookCollapseSection: true
-title: "Perangkat gamelan"
+title: "Instrument gamelan"
 ---

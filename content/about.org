@@ -1,0 +1,8 @@
+#+TITLE: About This Website
+#+TYPE: docs
+
+*WorldOfGamelans.xyz* adalah sebuah website yang saya buat untuk menjelaskan bebagai hal tentang gamelan jawa. Saya suka berbagi ilmu tentang gamelan jawa karena tidak banyak orang yang tahu dan suka.
+
+- NIM : 19.11.3022
+- Nama : Bima Wiratama
+- Kelas : 19IF-07
