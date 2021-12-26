@@ -1,0 +1,24 @@
+#+TITLE: Suling dalam Gamelan (Karawitan) Jawa
+#+TYPE: post
+#+AUTHOR: BiMA
+#+DATE: <2021-12-23 Sat>
+#+showthedate: show
+#+DESCRIPTION: Suling dalam gamelan jawa dapat dibagi menjadi 2 yaitu Suling gaya Surakarta dan Suling gaya Yogyakarta.
+
+Berbeda dengan suling gamelan sunda dan bali, Suling dalam musik karawitan jawa berfungsi sebagai penghias lagu dan hanya dimainkan pada gendhing alusan. Suling dimainkan dengan cara ditiup oleh mulut. Bahan baku untuk membuat suling yaitu bambu tetapi seiringnya perkembangan jaman suling bisa dibuat dari besi atau PVC(pipa air).
+
+Cara untuk memainkan suling jawa yaitu bebas asalkan jatuh pada nada yang sama pada sebuah gatra gendhing. Suling pada karawitan jawa akan saya bagi menjadi 2 yaitu suling gaya surakarta dan suling gaya yogyakarta.
+
+* Suling Gaya Surakarta
+Untuk suling gaya surakarta terdapat 2 buah suling yaitu 1 untuk pelog dan 1 untuk slendro. Pada suling pelog terdapat 5 lubang penjarian sedangkan pada suling slendro hanya terdapat 4 lubang penjarian. 
+
+#+CAPTION: Suling Gaya Surakarta berjumlah 2 buah slendro & pelog
+#+attr_html: :width 350px
+[[./Suling Gaya Surakarta.jpeg]]
+
+* Suling Gaya Yogyakarta
+Pada suling gaya yogyakarta hanya terdapat 1 buah suling bisa untuk pelog dan slendro. Terdapat 6 lubang penjarian pada suling ini. Untuk memainkan suling gaya yogyakarta ada penjarian khusus pada setiap laras.
+
+#+CAPTION: Suling Gaya Yogyakarta dengan 6 lubang
+#+attr_html: :width 350px
+[[./Suling Gaya Yogyakarta.jpeg]]

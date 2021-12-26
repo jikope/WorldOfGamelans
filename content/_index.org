@@ -2,6 +2,7 @@
 #+TYPE: docs
 #+DATE: <2021-11-11 Sat>
 #+showthedate: show
+#+DESCRIPTION: Pengenalan mengenai gamelan jawa yang menggunakan laras pelog atau slendro. Gamelan jawa memiliki banyak instrumen sekitar 25 untuk setiap laras.
 
 Gamelan Jawa merupakan salah satu alat musik tradisional indonesia yang berkembang di Jawa Tengah dan Yogyakarta. Pada website ini saya menulis tentang gamelan lebih banyak merujuk referensi dari gaya gamelan dari wilayah Yogyakarta.
 
@@ -17,10 +18,12 @@ Jika anda sering mendengarkan gamelan maka nada yang dipakai itu beda dengan nad
 Berikut adalah komparasi nada-nada pada pelog dan slendro.
 |-----------+---+---+---+---+---+---+---|
 | *Pelog*   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| *Slendro* | 1 | 2 | 3 | 5 | 6 |   |   |
+| *Slendro* | 1 | 2 | 3 |   | 5 | 6 |   |
 |-----------+---+---+---+---+---+---+---|
 
 * Instrumen
-Instrumen pada gamelan lengkap terdiri dari sekitar 24 perangkat. Instrumen-instrumen gamelan ini bisa dikelompokkan berdasarkan fungsinya pada orkestra. Balungan, melodi, struktural, pengatur tempo
+Instrumen pada gamelan lengkap terdiri dari sekitar 24 perangkat. Instrumen-instrumen gamelan ini bisa dikelompokkan berdasarkan fungsinya pada orkestra. Balungan, melodi, struktural, pengatur tempo.
 
 * Struktur Lagu/Gendhing
+#+CAPTION: Notasi Gendhing Prabu Mataram (diambil dari kratonjogja.id)
+[[./notasi.png]]
