@@ -57,3 +57,6 @@ enableGitInfo = true
   BookPortableLinks = true
   BookServiceWorker = true
   BookTranslatedOnly = false
+
+  Victor_Hugo = true
+  Focus_Keyword = "Javanese Gamelan"

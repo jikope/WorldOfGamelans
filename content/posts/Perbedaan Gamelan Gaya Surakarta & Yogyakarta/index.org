@@ -1,0 +1,51 @@
+#+TITLE: Perbedaan Gamelan Gaya Surakarta dan Yogyakarta
+#+TYPE: post
+#+DATE: <2021-12-30 Sat>
+#+showthedate: show
+
+* Latar Belakang
+Pada perjanjian Jatisari 1755 antara dua kerajaan besar Surakarta dan Yogyakarta dibagi warisan-warisan kerajaan mataram. Termasuk kebudayaan baik yang fisik (Gamelan) maupun non-fisik (Tari, Musik). Hamengku Buwono 1 sebagai perwakilan Yogyakarta memilih untuk melestarikan kebudayaan yang telah ada. Sedangkan Paku Buwono 3 sebagai perwakilan Surakarta memilih untuk membuat kebudayaan baru berdasarkan kebudayaan yang telah ada. Sebagai dampak dari perjanjian ini gamelan juga mengalami perubahan-perubahan yang membedakan antara gamelan Surakarta dan Yogyakarta.
+
+* Ciri-Ciri Fisik
+Gamelan yogyakarta memiliki bentuk ricikan yang cenderung lebih besar daripada gamelan surakarta dan juga memiliki ricikan yang lebih banyak. 
+
+** Balungan
+Pada ricikan balungan bisa dilihat ciri utama dari masing-masing gaya. Jika pada gaya surakarta maka rancakan balungan akan datar dan melengkung kebawah. Sedangkan pada ricikan balungan gaya yogyakarta maka rancakan kayu akan melengkung ke atas lalu baru kebawah. Lalu jumlah pada ricikan balungan yogyakarta untuk slendro terdapat 6 bilah sedangkan pada balungan surakarta nada slendro terdapat 7 bilah. Juga demung pada gamelan yogyakarta terdapat 2 buah untuk memainkan pola tabuhan imbal demung sedangkan di gamelan surakarta biasanya hanya terdapat 1 buah demung.
+
+#+CAPTION: Saron Surakarta
+#+attr_html: :width 450px
+[[./saron-surakarta.jpg]]
+
+#+CAPTION: Saron Yogyakarta
+#+attr_html: :width 450px
+[[./saron-jogja.jpg]]
+
+** Gayor Gong
+Gayor gong di surakarta lebih sering terdapat ukiran naga sedangkan pada gayor gong yogyakarta ukiran dedaunan lebih sering digunakan atau kadang polos tanpa ukiran. 
+
+#+CAPTION: Gayor Gong Surakarta
+#+attr_html: :width 450px
+[[./Gong Surakarta.jpg]]
+
+#+CAPTION: Gayor Gong Yogyakarta
+#+attr_html: :width 450px
+[[./gong jogja.jpg]]
+
+** Suling
+Pada gamelan gaya surakarta terdapat 2 buah suling, 1 untuk slendro berlubang 4 dan 1 untuk pelog berlubang 5. Untuk lebih jelasnya silahkan untuk membaca artikel tentang [[/posts/Suling-dalam-gamelan-karawitan-jawa/][suling]] yang telah saya tulis.
+
+** Instrumen yang hanya ada di Surakarta
+Pada gamelan gaya surakarta terdapat kendhang kosek yaitu kendang yang berukuran besar dan juga memiliki laras yang besar. Kendhang ini biasanya difungsikan untuk mengiringi adegan perang wayang. Ada juga ricikan Engkuk-Kemong yang berwujud seperti kempyang tetapi untuk laras slendro.
+
+** Instrumen yang hanya ada di Yogyakarta
+Pada gamelan gaya yogyakarta tedapat kenong japan yaitu kenong dengan nada lima dengan laras sangat rendah yang difungsikan untuk tabuhan soran. Lalu ada ricikan bonang panembung, yaitu bonang yang memiliki nada terbesar dari golongan ricikan bonang. Ricikan ini difungsikan pada seleh gatra nada balungan yang memberikan kesan gagah.
+
+* Ciri Non-Fisik
+Untuk gaya permainan masing-masing gaya menonjolkan hal yang berbeda, gaya surakarta lebih cenderung ke permainan ricikan alusan yang rumit sedangan yogyakarta lebih ke permainan balungan yang keras. Sehingga bisa disimpulkan bahwa gaya surakarta bersifat halus, rumit. Lalu untuk gaya yogyakarta bersifat keras, semangat.
+
+** Permainan Peking/Saron Penerus
+Pada gaya surakarta permainan peking yaitu menabuh 1 nada setelah balungan sedangkan yogyakarta enabuh 1 nada sebelum balungan.
+
+| Balungan |   | 2 |   | 3 |   | 2 |   | 1 |   |
+| Solo     |   | 2 | 2 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Jogja    | 2 | 2 | 3 | 3 | 2 | 2 | 1 | 1 |   |
