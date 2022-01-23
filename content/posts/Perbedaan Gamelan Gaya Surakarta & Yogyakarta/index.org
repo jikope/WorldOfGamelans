@@ -1,5 +1,5 @@
 #+TITLE: Perbedaan Gamelan Gaya Surakarta dan Yogyakarta
-#+TYPE: post
+#+TYPE: docs
 #+DATE: <2021-12-30 Sat>
 #+showthedate: show
 

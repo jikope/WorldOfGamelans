@@ -5,6 +5,7 @@ title = "World of Gamelans"
 theme = 'book'
 defaultContentLanguage = 'id'
 enableRobotsTXT = true 
+paginate = 3
 
 # Book configuration
 disablePathToLower = true
@@ -42,6 +43,7 @@ enableGitInfo = true
 [params]
   description = "Segala sesuatu tentang Gamelan Jawa"
   author = 'Bima Wiratama'
+  paginate = 3
 
   BookTheme = 'light'
   BookToC = false

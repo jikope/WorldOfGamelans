@@ -1,0 +1,25 @@
+#+TITLE: Sasmita Gendhing: Seni Menebak Gendhing
+#+TYPE: docs
+#+DATE: <2022-01-20 Thu>
+#+showthedate: show
+#+DESCRIPTION: Sasmita Gendhing: Seni Menebak Gendhing. Dalam sebuah pertunjukkan wayang lawas dalang dan penabuh gamelan tidak satu grup jadi sebelum pertunjukkan memang jarang latihan bersama. Dalang untuk meminta suatu gendhing untuk mengiringi suatu adegan butuh suatu mekanisme tersendiri. Dalang akan meminta gendhing sesuai dengan suasana adegan. Mekanisme ini sering disebut *Sasmita Gendhing* yang bisa diartikan dengan tanda gendhing(lagu).
+
+Dalam sebuah pertunjukkan wayang lawas dalang dan penabuh gamelan tidak satu grup jadi sebelum pertunjukkan memang jarang latihan bersama. Dalang untuk meminta suatu gendhing untuk mengiringi suatu adegan butuh suatu mekanisme tersendiri. Dalang akan meminta gendhing sesuai dengan suasana adegan. Mekanisme ini sering disebut *Sasmita Gendhing* yang bisa diartikan dengan tanda gendhing(lagu).
+
+Contoh sederhana yaitu
+
+#+CAPTION: Contoh sasmita gending: Genggong atau Jangkrik Genggong
+#+BEGIN_QUOTE
+Hanenggih hadeging negari hima imantaka. Sang yaksendro ingkang caca netra sajiwi. Neggih sang prabu Nirbita niwata kawaca. Ingkeng harsa lenggah siniwaka ing sitinggil binaturata ing negari hima imantaka sineba para abdi dalem ing negari manik hima imantaka. Kinarya panganjuring paseban neggih pepatih njawi neggih sang patih Mamang Murka twin mengkeraken sedaya wadya bala denawa asirah sato ing tlatah negari hima imantaka. Manap sipak raseksa gengalu luhur, mila datan mokal. Bidhal saking sajroning datulaya harsa jumeneng lenggah siniwaka gegidro. Katinon saking mandrawa candrane kaya *jangkrik mambu kili*.
+#+END_QUOTE
+
+Dari uraian dalang yang sedang bercerita tentang keadaan pada akhir kalimat terdapat sasmita gendhing untuk meminta gendhing *Genggong* atau *Jangkrik Genggong*. Setelah itu penabuh bonang atau rebab akan memberi tanda bagi penabuh lain untuk memainkan gendhing yang diminta.
+
+Berikut merupakan contoh lain.
+
+#+CAPTION: Contoh sasmita gending: Susila Madya
+#+BEGIN_QUOTE
+Datan kadi gumelaring kayangan untara segara. Candrane sanggya kang pepanggihan. Kawistara *tinata trapsilanira*.
+#+END_QUOTE
+
+{{< youtube id="2bQ3X677vSc?start=12387" >}}

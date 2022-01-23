@@ -1,0 +1,12 @@
+#+TITLE: Mengenal Instrumen Gamelan: Gambang Kayu
+#+TYPE: docs
+#+DATE: <2022-01-23 Sun>
+#+showthedate: show
+#+DESCRIPTION: Mengenal Instrumen Gamelan: Gambang Kayu. Selain dari bahan logam dalam gamelan instrumen juga ada yang dibuat dengan bahan kayu yaitu Gambang. Gambang biasanya mempunyai wilahan sebanyak 20 sampai 22. Instrumen ini dibunyikan dengan dua tangan secara bersamaan secara cepat. Pada laras slendro gambang hanya ada 1 sedangkan pada laras pelog gambang bisa ada 2 karena pada nada 1 atau 7 pelog hanya digunakan salah satu saja.
+
+
+#+CAPTION: Gambang Kayu
+#+attr_html: :width 700px
+[[./Gambang Kayu.png]]
+
+Selain dari bahan logam dalam gamelan instrumen juga ada yang dibuat dengan bahan kayu yaitu Gambang. Gambang biasanya mempunyai wilahan sebanyak 20 sampai 22. Instrumen ini dibunyikan dengan dua tangan secara bersamaan secara cepat. Pada laras slendro gambang hanya ada 1 sedangkan pada laras pelog gambang bisa ada 2 karena pada nada 1 atau 7 pelog hanya digunakan salah satu saja.

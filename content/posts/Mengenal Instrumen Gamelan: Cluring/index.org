@@ -1,0 +1,13 @@
+#+TITLE: Mengenal Instrumen Gamelan: Cluring
+#+TYPE: docs
+#+DATE: <2022-01-23 Sun>
+#+showthedate: show
+#+CATEGORY: Instrumen Gamelan
+#+DESCRIPTION: Mengenal Instrumen Gamelan: Cluring. 
+
+
+#+CAPTION: Instrumen Cluring pada Gamelan Kanjeng Kyai Kancilbelik (sumber Grinnel College)
+#+attr_html: :width 800px
+[[./Cluring.png]]
+
+Cluring merupakan instrumen tua yang ada gamelan khususnya dalam kraton yogyakarta. Instrumen ini diketahui ada pada gamelan yang dibuat pada tahun sebelum Sultan HB 1 menjadi raja yogyakarta. Instrumen ini memiliki bentuk wilahan unik yaitu mangkok yang disusun pada rancakan kayu. Suara yang dihasilkan oleh instrumen ini terdengar sangat melengking pada nada tinggi. Cara menabuh cluring sama dengan pola tabuhan saron peking pada masa kini.
