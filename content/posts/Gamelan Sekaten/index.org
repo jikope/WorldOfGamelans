@@ -1,0 +1,22 @@
+#+TITLE: Gamelan Sekaten
+#+TYPE: docs
+#+DATE: <2022-01-18 Tue>
+#+showthedate: show
+#+CATEGORY: Instrumen Gamelan
+
+#+CAPTION: Gamelan Sekati Gunturmadu
+[[./gunturmadu.jpg]]
+
+Seminggu sebelum hari kelahiran nabi Muhammad kraton yogyakarta dan surakarta menggelar suatu acara yang disebut sekaten. Acara ini pada jaman dulu digunakan untuk merayakan hari kelahiran nabi Muhammad serta menyebarkan ajaran islam di pulau jawa sejak abad 15.
+
+Gamelan yang digunakan untuk acara sekaten aslinya disebut dengan *Gamelan Sekati*. Bentuk dari gamelan sekaten memiliki ukuran yang sangat besar jika dibandingkan dengan gamelan sekarang. Jenis gendhing yang dimainkan pada gamelan ini hanya khusus untuk gendhing sekaten berlaras pelog yang berjenis tabuhan soran.
+
+Berikut merupakan daftar instrumen pada gamelan sekati.
+    - Gong Ageng (2)
+    - Kempyang (1)
+    - Bendhe (2)
+    - Bonang Barung (1)
+    - Saron Demung (1)
+    - Saron Barung (2)
+    - Saron Peking (1)
+    - Bedhug (1)

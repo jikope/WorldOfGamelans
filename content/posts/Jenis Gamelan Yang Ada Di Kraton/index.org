@@ -1,0 +1,19 @@
+#+TITLE: Jenis Gamelan yang ada di Kraton
+#+TYPE: docs
+#+DATE: <2022-01-19 Wed>
+#+showthedate: show
+#+CATEGORY: Instrumen Gamelan
+
+Dalam kegiatan seni karawitan dalam kraton tentu saja tiddak lepas dari gangsa (gamelan) yang digunakan sebagai alat musik. Gamelan gamelan di kraton sering diberi nama yang mempunyai gelar /Kanjeng Kyahi/. Gangsa yang dimiliki kraton bisa dikelompokkan dari fungsinya yaitu gamelan pakurmatan dan gamelan ageng.
+
+#+CAPTION: Salah satu gamelan pakurmatan: Gamelan Monggang
+[[./gunturlaut.jpg]]
+
+Gamelan pakurmatan digunakan untuk acara-acara resmi tertentu kraton. Untuk gamelan [[/posts/Gamelan-Monggang/][Monggang]] digunakan untuk mengiringi latihan prajurit dan juga penobatan raja. Lalu ada gamelan Kodok Ngorek untuk mengiringi /tarung sima/, balapan kuda dan latihan prajurit. Juga ada gamelan [[/posts/Gamelan-Sekaten][Sekati]] digunakan untuk gelaran acara sekaten yang dilaksanakan selama seminggu.
+
+#+CAPTION: Sepasang gamelan Ageng: Gamelan Kyai Surak dan Kyai Kancilbelik
+[[./Gamelan Kraton Yogyakarta.png]]
+
+Gamelan Ageng digunakan untuk acara-acara yang bersifat hiburan seperti wayang wong, wayang kulit, [[/posts/Uyon-Uyon-Hadiluhung/][uyon-uyon]]. Gamelan jenis ini memiliki bentuk yang sama dengan gamelan jaman sekarang. 
+
+

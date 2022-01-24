@@ -1,0 +1,11 @@
+#+TITLE: Mengenal Instrumen Gamelan: Saron
+#+TYPE: docs
+#+DATE: <2022-01-13 Fri>
+#+showthedate: show
+#+CATEGORY: Instrumen Gamelan
+#+DESCRIPTION: Mengenal Instrumen Gamelan: Saron. Instrumen saron sering juga disebut dengan instrumen balungan. Dalam golongan balungan terdapat 3 jenis saron yaitu saron demung, saron barung dan saron peking. Ketiga jenis saron memiliki bentuk yang sama tetapi hanya ukurannya saja yang berbeda.Untuk laras slendro terdapat 6 wilahan sedangkan untuk laras pelog terdapat 7 wilahan. 
+
+#+CAPTION: Saron Barung
+[[./saron-jogja.jpg]]
+
+Instrumen saron sering juga disebut dengan instrumen balungan. Dalam golongan balungan terdapat 3 jenis saron yaitu saron demung, saron barung dan saron peking. Ketiga jenis saron memiliki bentuk yang sama tetapi hanya ukurannya saja yang berbeda.Untuk laras slendro terdapat 6 wilahan sedangkan untuk laras pelog terdapat 7 wilahan. 

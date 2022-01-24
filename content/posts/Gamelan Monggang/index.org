@@ -1,0 +1,10 @@
+#+TITLE: Gamelan Monggang
+#+TYPE: docs
+#+DATE: <2022-01-18 Tue>
+#+showthedate: show
+#+CATEGORY: Instrumen Gamelan
+
+#+CAPTION: Gamelan Monggang Gunturlaut
+[[./gunturlaut.jpg]]
+
+Gamelan monggang merupakan gamelan tertua yang diketahui sejarahnya yang dibuat pada abad 12. Gamelan ini pada masa sekarang hanya digunakan sebagai gamelan pakurmatan yang difungsikan untuk mengiringi latihan prajurit atau penobatan sultan. Gamelan ini hanya memiliki 3 nada dan hanya memainkan gendhing yang disebut gendhing monggang.
